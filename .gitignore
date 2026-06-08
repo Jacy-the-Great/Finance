@@ -1,0 +1,4 @@
+# Plaintext source — NEVER commit this to a public repo.
+# The encrypted index.html is the published artifact.
+# Recover this file anytime with: node decrypt.js "<password>"
+app.plain.html
